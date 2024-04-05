@@ -1,5 +1,5 @@
 # Quick notes about HELM Charts 
-Este repositório é uma ampla compilação dos meus estudos sobre a ferramenta HELM. O projeto principal na raiz do repositório é um serviço simples desenvolvido com FastAPI, com o intuito sendo destacar a importância da ferramenta HELM e meus estudos sobre ela.
+This repository is a broad compilation of my studies on the HELM tool. The main project at the root of the repository is a simple service developed with FastAPI, with the aim of highlighting the importance of the HELM tool and my studies on it.
 
 <div align="center">
     <img title="helm-logo" src="https://sretips.com.br/images/kubernetes/helm.svg"/>
